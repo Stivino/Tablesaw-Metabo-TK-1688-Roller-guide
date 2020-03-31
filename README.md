@@ -2,7 +2,7 @@
 3D print template for Metabo TK 1688 spare part 
 
 
-![1](https://www.woodworker.de/forum/attachments/dsc_0941-jpg.63779/)
+![1](img/DSC_0940.JPG)
 
 
-![2](https://www.woodworker.de/forum/attachments/dsc_0940-jpg.63778/)
+![2](img/DSC_0941.JPG)
